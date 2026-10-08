@@ -1,0 +1,1 @@
+I am mostly learning Python through an online Udemy course called Master Python by building 100 projects in 100 days. Learn data science, automation, and build websites, games, and apps!" by Dr. Angela Yu, a Developer and Lead Instructor. 
